@@ -1,24 +1,11 @@
 # README
+Steps to run this application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Use `bundle install` for rails dependencies
 
-Things you may want to cover:
+* Use `npm install` for npm dependencies
 
-* Ruby version
+* `rails db:migrate` for running migrations
 
-* System dependencies
+* `rails s` for starting server
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
